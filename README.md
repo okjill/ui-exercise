@@ -1,6 +1,4 @@
 # UI Exercise
-A UI exercise for UI applicants at OneMain
-
 Use the design files in this repository to build a simple form, similar to one you might encounter working for us. Please match the design as closely as you are able.
 
 - Assume the form submits to a secure backend.
